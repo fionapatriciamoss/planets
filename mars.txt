@@ -1,3 +1,4 @@
 mars.txt
 Sample text file
 mars is cold in the evening and hot during the day
+fourth line
