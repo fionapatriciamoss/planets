@@ -1,2 +1,2 @@
 mars.txt
-
+Sample text file
